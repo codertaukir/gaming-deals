@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codertaukir.github.io/gaming-deals/sitemap.xml

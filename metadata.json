@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Deals",
+  "description": "Curated gaming discovery, price comparison, hardware, and verified affiliate deals hub for PC, console, and mobile players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
